@@ -1,1 +1,7 @@
 obj/
+.vs/
+bin/
+*.user
+
+seed.json
+dev-store.db
